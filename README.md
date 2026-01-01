@@ -29,7 +29,7 @@ This project involves:
   - Products.csv → product catalog  
   - Orders.csv → transactional sales data
  
-    ![image] (https://github.com/harithadamm/asset-project/blob/main/Screenshot%201.png)
+   <img src="https://github.com/harithadamm/asset-project/blob/main/Screenshot%201.png " width="400" />
 
 - **Tools & Technologies**:  
   - SQL Server (SSMS) → data cleaning, preparation, and quality checks  
