@@ -50,4 +50,4 @@ This project involves:
 - Re‑evaluate underperforming products (e.g., Bose SoundSport Headphones) with targeted promotions or discontinuation.  
 - Strengthen loyalty program marketing to convert non‑members and increase repeat purchases.  
 
----  
+
