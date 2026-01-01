@@ -30,19 +30,16 @@ This project involves:
   - Orders.csv → transactional sales data
  
    <img src="https://github.com/harithadamm/asset-project/blob/main/Screenshot%201.png " width="400" />
-
-- **Tools & Technologies**:  
-  - SQL Server (SSMS) → data cleaning, preparation, and quality checks  
-  - Tableau → dashboard creation and interactive storytelling  
-  - Excel/Python → supplemental analysis and validation  
-
-- **Skills Applied**:  
-  - Data modeling and ETL pipeline design  
-  - SQL queries for cleaning, organizing, and answering business questions  
-  - Dashboard design with emphasis on clarity and narrative flow  
-  - Business analysis and recommendation development  
+ 
+- **Skills Applied**:
+ - Data modeling and blending in Tableau
+ - Dashboard design with emphasis on clarity and narrative flow
+ - Business analysis and recommendation development
+ - Storytelling with data to influence decision‑making
 
 ---
+
+<img src="https://github.com/harithadamm/asset-project/blob/main/tableau1.gif" width="400" />
 
 ## 📊 Key Insights
 - **Sales peaked in Dec 2020** ($1.25M revenue, 4,019 orders) but declined for 21 consecutive months, reaching a low of $178K in Oct 2022.  
