@@ -6,8 +6,6 @@ By combining SQL for data preparation and Tableau for visualization, the dashboa
 
 The objective is to demonstrate how data storytelling can bridge the gap between analytics and business strategy enabling companies to act decisively on evidence rather than assumptions.
 
----
-
 ## 🗂 Project Scope
 This project involves:
 - Developing an **interactive sales dashboard** to monitor KPIs such as revenue, order volume, and average order value (AOV).  
@@ -19,13 +17,13 @@ This project involves:
 ---
 
 ## 📋 Project Requirements
+
+<img src="https://github.com/harithadamm/asset-project/blob/main/Screenshot%201.png " width="400" />
 - **Datasets**:  
   - Customers.csv → customer master list  
   - Location.csv → geographic lookup  
   - Products.csv → product catalog  
   - Orders.csv → transactional sales data
- 
-   <img src="https://github.com/harithadamm/asset-project/blob/main/Screenshot%201.png " width="400" />
  
 - **Skills Applied**:
  - Data modeling and blending in Tableau
