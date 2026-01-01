@@ -1,14 +1,10 @@
 # Revenue-Trends-Product-Performance-Dashboard
 
-## 📖 Project Overview
-
-# Sales Insights & Business Impact Dashboard
-
 ## 📖 Executive Summary
-This project delivers a comprehensive analysis of retail sales data, designed to support strategic decision‑making.  
+This project delivers a comprehensive analysis of retail sales data, designed to support strategic decision making.  
 By combining SQL for data preparation and Tableau for visualization, the dashboard transforms raw data into actionable insights that highlight revenue trends, product performance, customer loyalty, and regional dynamics.  
 
-The objective is to demonstrate how data storytelling can bridge the gap between analytics and business strategy — enabling companies to act decisively on evidence rather than assumptions.
+The objective is to demonstrate how data storytelling can bridge the gap between analytics and business strategy enabling companies to act decisively on evidence rather than assumptions.
 
 ---
 
